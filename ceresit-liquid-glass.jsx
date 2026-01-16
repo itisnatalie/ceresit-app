@@ -773,7 +773,7 @@ const ChatbotPrototype = () => {
               <div className="flex items-center gap-3.5">
                 <div className="w-12 h-12 rounded-full bg-white/90 flex items-center justify-center flex-shrink-0 shadow-lg backdrop-blur-sm">
                   <img 
-                    src="https://media.licdn.com/dms/image/v2/D4D0BAQHbjVOZ_S_sNQ/company-logo_200_200/company-logo_200_200/0/1719489877295/ceresit_logo?e=2147483647&v=beta&t=8rXGw0xcLy9fINcL-a2aLc6i5t8hOdEsxNlmnTcYTyY" 
+                    src="https://dm.henkel-dam.com/is/image/henkel/ceresit-ru-learn-advert1-ceresit-logo" 
                     alt="Ceresit Logo" 
                     className="w-10 h-10 object-contain rounded-full"
                   />
